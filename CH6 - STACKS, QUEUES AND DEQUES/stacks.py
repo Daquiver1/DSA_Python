@@ -6,7 +6,7 @@
 # so that its methods match those of a related but different class.
 # The adapter design pattern is use to create a stack ADT.
 
-class ArrayStack:
+class ArrayStack: 
 	"""
 	LIFO Stack implementation using a Python list as underlying storage.
 
