@@ -2,7 +2,7 @@ class ArrayStack:
 	"""
 	LIFO Stack implementation using a Python list as underlying storage.
 
-	The space usage for a stack is O(n)
+	The space usage for a stack is O(n) 
 	"""
 
 	def __init__(self):
